@@ -30,7 +30,7 @@ This project is a Fibonacci sequence generator that offers two modes for generat
 
 1. Run the script:
     ```bash
-    python generator.py
+    python fib_gen.py
     ```
 2. Follow the prompts:
    - Choose the generation mode:
