@@ -21,18 +21,18 @@ This project is a Fibonacci sequence generator that offers two modes for generat
     ```bash
     git clone https://github.com/your-username/fibonacci-sequence-generator.git
     ```
-2. Navigate to the project folder:
-    ```bash
-    cd fibonacci-sequence-generator
-    ```
 
 ## Usage
 
-1. Run the script:
+1. Navigate to the project folder:
+    ```bash
+    cd fibonacci-sequence-generator
+    ```
+2. Run the script:
     ```bash
     python fib-gen.py
     ```
-2. Follow the prompts:
+3. Follow the prompts:
    - Choose the generation mode:
      - Type `1` to enter the number of Fibonacci numbers to generate.
      - Type `2` to enter an approximate maximum value for the sequence.
@@ -40,7 +40,7 @@ This project is a Fibonacci sequence generator that offers two modes for generat
      - Type `1` to get the sequence as a list.
      - Type `2` to display each number vertically.
 
-3. The program will generate the Fibonacci sequence based on your inputs.
+4. The program will generate the Fibonacci sequence based on your inputs.
 
 ## License
 
